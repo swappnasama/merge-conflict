@@ -1,1 +1,1 @@
-# Hello Merge COnflict
+# Hello Merge Conflict
