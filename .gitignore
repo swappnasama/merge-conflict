@@ -1,0 +1,9 @@
+# Windows
+Thumbs.db
+desktop.ini
+# dotenv environment variables file
+.env
+.env.test
+
+# Dependency directories
+node_modules
