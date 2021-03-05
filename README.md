@@ -4,7 +4,7 @@ Creating and resolving Merge conflict and adding .gitignore file to project.
 
 **Author and Repo maintainer:** Swapna Sama
 
-**GH repo :** [https://github.com/swappnasama/cpnt201-a3.git](https://github.com/swappnasama/cpnt201-a3.git).
+**GH repo :** [https://github.com/swappnasama/merge-conflict.git](https://github.com/swappnasama/merge-conflict.git).
 
 **Links to conflicts :** 
   
